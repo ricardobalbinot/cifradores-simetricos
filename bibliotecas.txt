@@ -1,0 +1,5 @@
+Como os códigos foram desenvolvidos em JavaScript, a única especificação para a sua execução é ter o Node.js instalado na sua máquina.
+Sua instalação pode ser feita através do link: https://nodejs.org/en/download/
+
+Todos os outros pacotes utilizados para apoio da execução do projeto são oriundos do próprio Node, sendo eles:
+- fs - pacote que auxilia na leitura e escrita em arquivos no projeto
